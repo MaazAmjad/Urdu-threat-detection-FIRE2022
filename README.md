@@ -43,8 +43,8 @@ The class distribution for the fake and real news for each dataset is shown belo
 
 | Dataset             | Class      | Entries |
 |:--------------------|:----------:|--------:|
-|                     |  Group |  1,341     |
-| Group Threat    |------------|---------|
+|   Group Threat                     |  Group |  1,341     |
+|  |------------|---------|
 | Individual Threat      | Individual| 441 |
 | Total Tweets       | -----| 1,782 |
 
