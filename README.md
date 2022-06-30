@@ -10,7 +10,7 @@
  1. Introduction
  2. Data Annotation
  3. Dataset structure
- 4. Task Description
+ 4. Task and Dataset Description
  5. Feedback
  6. Citation Info
 ---
@@ -50,7 +50,7 @@ The class distribution for the fake and real news for each dataset is shown belo
 
 
 
-## 4. Task Description
+## 4. Task and Dataset Description
 
 This is a binary classiifcation task. There tare two primary tasks in this shared task. 
 
@@ -74,7 +74,7 @@ The third column contains the truth label "1", "0", "2".
 ---
 
 ## 5. Feedback
-If you want to know how this dataset was build (include the explanation of crawling and annotation technique) and how we did our experiments for Fake News detection in Urdu language using this dataset, you can read our paper DOI: 10.1109/ACCESS.2021.3112500
+If you want to know how this dataset was build (include the explanation of crawling and annotation technique) and how we did our experiments for identifying Threatening Tweet in Urdu language using this dataset, you can read our paper DOI: 10.1109/ACCESS.2021.3112500
 
 *For further questions or inquiries about this dataset, you can contact Maaz Amjad (maazamjad@phystech.edu)* 
 
