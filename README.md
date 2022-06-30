@@ -35,8 +35,8 @@ The class distribution for the fake and real news for each dataset is shown belo
 
 | Dataset             | Class      | Entries |
 |:--------------------|:----------:|--------:|
-|                     | Threatening|  1,782     |
-| Urdu Threatening    |------------|---------|
+|  Urdu Threatening   | Threatening|  1,782     |
+|     |------------|---------|
 | Tweet Dataset       | Non-Threatening| 1,782 |
 | Total Tweets       | -----| 3,564 |
 
