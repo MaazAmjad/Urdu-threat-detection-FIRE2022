@@ -52,9 +52,9 @@ The class distribution for the fake and real news for each dataset is shown belo
 
 ## 4. Task and Dataset Description
 
-This is a binary classiifcation task. There tare two primary tasks in this shared task. 
+This is a binary classiifcation task. There are two primary tasks in this shared task. 
 
-1. The first task is to classifiy the given tweet as "Threatening" and "non0threatening". 
+1. The first task is to classify the given tweet as "Threatening" and "non0threatening". 
 2. The second tasks is if the tweet is classified as "threatening" tweet, then it should be further classified as threat is given to an "individial" or a "group". 
 
 The format of the Training Dataset.xlsx file is as follows:
