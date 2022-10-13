@@ -63,19 +63,19 @@ The first column corresponds to the Tweet text to be classified as "Threatening"
 
 The second column contains the truth label "1" or "0". 
 
-a. The truth label "1" corresponds to the threatening tweet. 
+  a. The truth label "1" corresponds to the threatening tweet. 
 
-b. The truth label "0" corresponds to the non-threatening tweet. 
+  b. The truth label "0" corresponds to the non-threatening tweet. 
   
 
 The third column contains the truth label "1", "0", "2". 
 
-a. The truth label "1" corresponds to the threat is given to a "group". 
+  a. The truth label "1" corresponds to the threat is given to a "group". 
 
-b. The truth label "0" corresponds to the threat is given to an "individual". 
+  b. The truth label "0" corresponds to the threat is given to an "individual". 
 
-c. The truth label "2" corresponds to the non-threatening tweet.
-  
+  c. The truth label "2" corresponds to the non-threatening tweet.
+
 ---
 
 ## 5. Feedback
