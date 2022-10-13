@@ -67,8 +67,8 @@ The second column contains the truth label "1" or "0".
   
 
 The third column contains the truth label "1", "0", "2". 
-  a. The truth label "1" corresponds to the threat is given to an "individual". 
-  b. The truth label "0" corresponds to the threat is given to an "group". 
+  a. The truth label "1" corresponds to the threat is given to a "group". 
+  b. The truth label "0" corresponds to the threat is given to an "individual". 
   c. The truth label "2" corresponds to the non-threatening tweet.
   
 ---
