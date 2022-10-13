@@ -62,11 +62,13 @@ The format of the Training Dataset.xlsx file is as follows:
 The first column corresponds to the Tweet text to be classified as "Threatening" and "non-threatening". If the tweet is classified as "threatening" tweet, then it should be further classified as threat is given to an "individial" or a "group". 
 
 The second column contains the truth label "1" or "0". 
+
 a. The truth label "1" corresponds to the threatening tweet. 
 b. The truth label "0" corresponds to the non-threatening tweet. 
   
 
 The third column contains the truth label "1", "0", "2". 
+
 a. The truth label "1" corresponds to the threat is given to a "group". 
 b. The truth label "0" corresponds to the threat is given to an "individual". 
 c. The truth label "2" corresponds to the non-threatening tweet.
@@ -76,7 +78,7 @@ c. The truth label "2" corresponds to the non-threatening tweet.
 ## 5. Feedback
 If you want to know how this dataset was build (include the explanation of crawling and annotation technique) and how we did our experiments for identifying Threatening Tweet in Urdu language using this dataset, you can read our paper DOI: 10.1109/ACCESS.2021.3112500
 
-*For further questions or inquiries about this dataset, you can contact Maaz Amjad (maazamjad@phystech.edu)* 
+*For further questions or inquiries about this dataset, you can contact Maaz Amjad (h.maazamjad@gmail.com)* 
 
 ---
 
