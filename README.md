@@ -79,7 +79,6 @@ c. The truth label "2" corresponds to the non-threatening tweet.
 If you want to know how this dataset was build (include the explanation of crawling and annotation technique) and how we did our experiments for identifying Threatening Tweet in Urdu language using this dataset, you can read our paper DOI: 10.1109/ACCESS.2021.3112500
 
 *For further questions or inquiries about this dataset, you can contact Maaz Amjad (h.maazamjad@gmail.com)* 
-
 ---
 
 ## 6. Citation Info
